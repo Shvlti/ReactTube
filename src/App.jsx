@@ -1,8 +1,8 @@
 import { Layout, Menu } from 'antd';
 import { Link, Routes, Route } from 'react-router-dom';
-import Home from '../Home/home';
-import Profile from '../Profile/profile';
-import VideoPage from './VideoPage/videoPage';
+import Home from './Home/home.jsx';
+import Profile from './Profile/profile.jsx';
+import VideoPage from './VideoPage/videoPage.jsx';
 import 'antd/dist/reset.css'; // для Ant Design 5+
 
 const { Header, Content } = Layout;
