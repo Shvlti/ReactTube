@@ -3,7 +3,7 @@ import { Link, Routes, Route } from 'react-router-dom';
 import Profile from './Profile/profile.jsx';
 import VideoPage from './VideoPage/videoPage.jsx';
 import 'antd/dist/reset.css'; // для Ant Design 5+
-import Home from './home/home.jsx';
+import Home from './Home/main-page.jsx';
 
 const { Header, Content } = Layout;
 
