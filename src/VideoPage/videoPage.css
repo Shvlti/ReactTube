@@ -1,0 +1,9 @@
+.video-page{
+    padding: 20px;
+}
+.comments-section{
+    margin-top: 30px;
+}
+.comments-section .ant-list-item{
+    border-bottom: 1px solid #f0f0f0;
+}
