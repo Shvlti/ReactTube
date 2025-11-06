@@ -3,9 +3,9 @@ import { Card, Input, Row, Col, Button, Spin, Typography } from 'antd';
 import 'antd/dist/reset.css';
 import { Link } from 'react-router-dom';
 import { v4 as uuidv4 } from 'uuid';
-import './Home.css';
+import './home.css';
 
-const { Title, Text } = Typography;
+const { Text } = Typography;
 const { Search } = Input;
 
 function Home() {

@@ -2,7 +2,7 @@ import { useState, useEffect } from 'react';
 import { Link, useParams } from 'react-router-dom';
 import { Row, Col, Typography, Card, Input, Button, List, Spin } from 'antd';
 import { v4 as uuidv4 } from 'uuid';
-import './VideoPage.css';
+import './videoPage.css';
 
 const { Title, Text } = Typography;
 const { TextArea } = Input;
